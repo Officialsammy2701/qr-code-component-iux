@@ -24,8 +24,8 @@ A responsive single-card layout built with semantic HTML and modern CSS. The goa
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-iux-e81ABCpxxf)
+- Live Site URL: [Live Site URL](https://officialsammy2701.github.io/qr-code-component-iux/)
 
 ## My process
 
